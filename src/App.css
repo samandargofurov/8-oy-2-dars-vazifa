@@ -1,0 +1,176 @@
+.container {
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+
+.click {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border-bottom: 1px solid #E2E2EA;
+    padding-bottom: 16px;
+}
+
+.clickmade {
+    outline: none;
+    border: none;
+    background: transparent;
+    display: flex;
+    cursor: pointer;
+    gap: 10px;
+    align-items: center;
+}
+
+.click-title {
+    font-size: 18px;
+    color: black;
+    font-weight: 600;
+}
+
+.countinue {
+    width: 172px;
+    height: 48px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    border-radius: 100px;
+}
+
+
+/* hero */
+
+.hero {
+    padding: 24px 24px 0px 24px;
+    border: 1px solid #E2E2EA;
+    border-radius: 14px;
+    margin-top: 32px;
+    margin-bottom: 32px;
+}
+
+.inputs {
+    margin-top: 20px;
+}
+
+.p_a_t {
+    display: flex;
+    justify-content: space-between;
+}
+
+.p_i {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.p_n {
+    padding: 14px;
+    font-size: 16px;
+    width: 600px;
+    outline: none;
+    border: none;
+    background-color: #FBFAFC;
+    border: 1px solid #C4C4C4;
+    border-radius: 5px;
+}
+
+.s_f {
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.tag {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.finish {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    margin-top: 8px;
+}
+
+.timeLine {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 25px;
+}
+
+.timeLine-title {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+
+.added-massage {
+    border: 1px solid #E2E2EA;
+    background-color: #F8F8F8;
+    border-top-left-radius: 18px;
+    border-top-right-radius: 18px;
+    padding: 25px 25px 0px 25px;
+    margin-top: 20px;
+}
+
+
+.send-massage {
+    margin-top: 25px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.send-massage-place {
+    margin-top: 42px;
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+}
+
+.shablon {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.link {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.desc-lang-title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.addSquare {
+    display: flex;
+    align-items: center;
+    color: #0062FF;
+    gap: 6px;
+}
+
+
+
+.textarea {
+    margin: -25px;
+    padding: 20px;
+    border: none;
+    border: 1px solid #E2E2EA;
+    resize: none;
+    width: 601px;
+    font-size: 15px;
+    background-color: #fff;
+    outline: none;
+}
+
+.for-img {
+    margin-top: 30px;
+}
